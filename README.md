@@ -1,7 +1,7 @@
 # Claude PR Practice
 
-Wellcome! This repository exists so I can practice the full GitHub workflow:
-creating a branch, commiting a change, and opening a Pull Request.
+Welcome! This repository exists so I can practice the full GitHub workflow:
+creating a branch, committing a change, and opening a Pull Request.
 
 ## What is this?
 
